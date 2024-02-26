@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    transition: background-image 1s ease !important; 
+}
